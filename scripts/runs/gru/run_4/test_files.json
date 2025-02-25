@@ -1,0 +1,18 @@
+[
+    {
+        "group": "air gasification",
+        "test_file": "../data/Group_modified\\air gasification\\20210609_mask pellet air 가스화_2차.csv"
+    },
+    {
+        "group": "steam gasification",
+        "test_file": "../data/Group_modified\\steam gasification\\20210510_Mask pellet steam gasification.csv"
+    },
+    {
+        "group": "CO2 gasification",
+        "test_file": "../data/Group_modified\\CO2 gasification\\22.04.07_co2 가스화 with AC.csv"
+    },
+    {
+        "group": "O2steam gasification",
+        "test_file": "../data/Group_modified\\O2steam gasification\\220718_mask o2steam gasification_with ac.csv"
+    }
+]

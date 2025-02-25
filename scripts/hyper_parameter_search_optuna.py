@@ -19,7 +19,7 @@ from models.vanilla_lstm import VanillaLSTM
 from models.vanilla_gru import VanillaGRU
 
 # 사용자 정의 메트릭들
-from utils.metrics import mean_absolute_percentage_error, symmetric_mean_absolute_percentage_error
+from utils.metrics import symmetric_mean_absolute_percentage_error
 
 # 사용자 정의 함수들
 from utils.functions import train_model
@@ -224,10 +224,6 @@ def objective(trial):
                 'MAE': mean_absolute_error(test_trues_orig, test_preds_orig, multioutput='raw_values').tolist(),
                 'MSE': mean_squared_error(test_trues_orig, test_preds_orig, multioutput='raw_values').tolist(),
                 'R2': r2_scores,
-                'MAPE': [
-                    mean_absolute_percentage_error(test_trues_orig[:, i], test_preds_orig[:, i])
-                    for i in range(test_trues_orig.shape[1])
-                ],
                 'SMAPE': symmetric_mean_absolute_percentage_error(test_trues_orig, test_preds_orig)
             })
             # 결과 저장 경로
@@ -249,14 +245,12 @@ def objective(trial):
                 mse_i = np.mean((y_true_i - y_pred_i) ** 2)
                 mae_i = mean_absolute_error(y_true_i, y_pred_i)
                 r2_i = r2_score(y_true_i, y_pred_i)
-                mape_i = mean_absolute_percentage_error(y_true_i, y_pred_i)
-                smape_i = smape(y_true_i, y_pred_i)
+                smape_i = symmetric_mean_absolute_percentage_error(y_true_i, y_pred_i)
 
                 print(f"--- Target: {tname} ---")
                 print(f"  MSE : {mse_i:.4f}")
                 print(f"  MAE : {mae_i:.4f}")
                 print(f"  R2  : {r2_i:.4f}")
-                print(f"  MAPE: {mape_i:.2f}%")
                 print(f"  SMAPE: {smape_i[0]:.2f}%")
                 print("---------------------")
 

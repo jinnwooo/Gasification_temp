@@ -1,0 +1,165 @@
+﻿Test_File,Target,MSE,MAE,R2,SMAPE
+20210614_non-A.C_air가스화,CO,0.0019,0.0398,0.9951,4.5682
+20210614_non-A.C_air가스화,CO2,0.0008,0.0176,0.9998,8.593
+20210614_non-A.C_air가스화,CH4,0.0013,0.023,0.9976,2.6685
+20210614_non-A.C_air가스화,H2,0.0034,0.0524,0.9889,1.9747
+20210520_mask pellet_steam 가스화,CO,0.0014,0.0135,0.998,12.2693
+20210520_mask pellet_steam 가스화,CO2,0.0411,0.0386,0.9279,4.2445
+20210520_mask pellet_steam 가스화,CH4,0.0059,0.0295,0.9973,12.0384
+20210520_mask pellet_steam 가스화,H2,0.0374,0.0504,0.9983,6.5792
+22.05.25_mask co2 gasification without ac,CO,0.0015,0.0364,0.8823,11.7342
+22.05.25_mask co2 gasification without ac,CO2,0.0162,0.1174,0.999,9.4613
+22.05.25_mask co2 gasification without ac,CH4,0.0016,0.0278,0.9984,7.0367
+22.05.25_mask co2 gasification without ac,H2,0.0022,0.0405,0.9925,2.5898
+220608_mask o2steam gasification_without ac,CO,0.0038,0.0337,0.9977,27.8926
+220608_mask o2steam gasification_without ac,CO2,0.0315,0.0404,0.9957,32.2169
+220608_mask o2steam gasification_without ac,CH4,0.0161,0.0499,0.9979,38.8723
+220608_mask o2steam gasification_without ac,H2,0.0099,0.0358,0.9978,5.4779
+20210614_non-A.C_air가스화,CO,0.0006,0.0202,0.9984,3.3718
+20210614_non-A.C_air가스화,CO2,0.0027,0.0479,0.9992,8.9673
+20210614_non-A.C_air가스화,CH4,0.002,0.0374,0.9963,3.2565
+20210614_non-A.C_air가스화,H2,0.0016,0.0313,0.9948,1.2277
+20210510_Mask pellet steam gasification,CO,0.0006,0.018,0.9986,2.3036
+20210510_Mask pellet steam gasification,CO2,0.0011,0.0246,0.9969,4.3087
+20210510_Mask pellet steam gasification,CH4,0.0028,0.0408,0.998,5.2019
+20210510_Mask pellet steam gasification,H2,0.0045,0.0488,0.9997,2.582
+22.04.07_co2 가스화 with AC,CO,0.0109,0.0485,0.9777,10.037
+22.04.07_co2 가스화 with AC,CO2,0.4786,0.4798,0.9808,21.5212
+22.04.07_co2 가스화 with AC,CH4,0.0281,0.095,0.9857,16.8592
+22.04.07_co2 가스화 with AC,H2,0.053,0.1728,0.9917,10.8902
+220819_mask O2steam gasification without AC,CO,0.0008,0.0172,0.9997,18.499
+220819_mask O2steam gasification without AC,CO2,0.006,0.0718,0.9994,82.7067
+220819_mask O2steam gasification without AC,CH4,0.0065,0.0466,0.9993,80.5767
+220819_mask O2steam gasification without AC,H2,0.015,0.1135,0.9982,79.8617
+20210730_mask pellet_air,CO,0.0132,0.1029,0.9874,5.9118
+20210730_mask pellet_air,CO2,0.1212,0.3037,0.9775,9.2732
+20210730_mask pellet_air,CH4,0.0119,0.0816,0.9927,6.3149
+20210730_mask pellet_air,H2,0.0224,0.1235,0.9953,1.9699
+20210510_Mask pellet steam gasification,CO,0.0014,0.0321,0.9967,4.5364
+20210510_Mask pellet steam gasification,CO2,0.0054,0.0571,0.9846,9.0582
+20210510_Mask pellet steam gasification,CH4,0.0023,0.033,0.9984,5.3143
+20210510_Mask pellet steam gasification,H2,0.0045,0.0417,0.9997,5.9174
+22.05.25_mask co2 gasification without ac,CO,0.0014,0.0332,0.8903,14.6293
+22.05.25_mask co2 gasification without ac,CO2,0.0072,0.0575,0.9996,9.9892
+22.05.25_mask co2 gasification without ac,CH4,0.0024,0.0351,0.9976,7.223
+22.05.25_mask co2 gasification without ac,H2,0.0112,0.1022,0.9614,8.1351
+220718_mask o2steam gasification_with ac,CO,0.0018,0.033,0.9956,0.7477
+220718_mask o2steam gasification_with ac,CO2,0.0146,0.1084,0.9928,1.9959
+220718_mask o2steam gasification_with ac,CH4,0.0089,0.0628,0.9949,3.1034
+220718_mask o2steam gasification_with ac,H2,0.0099,0.0749,0.9986,0.6708
+20210614_non-A.C_air가스화,CO,0.0009,0.0218,0.9978,4.0797
+20210614_non-A.C_air가스화,CO2,0.0018,0.0227,0.9995,9.27
+20210614_non-A.C_air가스화,CH4,0.0014,0.0279,0.9975,2.7832
+20210614_non-A.C_air가스화,H2,0.004,0.0548,0.9866,2.9572
+20210520_mask pellet_steam 가스화,CO,0.0024,0.0284,0.9965,13.1372
+20210520_mask pellet_steam 가스화,CO2,0.0318,0.0388,0.9443,4.4356
+20210520_mask pellet_steam 가스화,CH4,0.0059,0.0262,0.9973,12.028
+20210520_mask pellet_steam 가스화,H2,0.0327,0.0461,0.9985,7.1207
+22.04.07_co2 가스화 with AC,CO,0.0135,0.0666,0.9725,11.6449
+22.04.07_co2 가스화 with AC,CO2,0.4133,0.4515,0.9834,21.2876
+22.04.07_co2 가스화 with AC,CH4,0.0291,0.0784,0.9852,16.5017
+22.04.07_co2 가스화 with AC,H2,0.067,0.1594,0.9895,12.9769
+220608_mask o2steam gasification_without ac,CO,0.0027,0.0315,0.9984,24.9961
+220608_mask o2steam gasification_without ac,CO2,0.0506,0.059,0.993,36.012
+220608_mask o2steam gasification_without ac,CH4,0.0153,0.0593,0.998,39.1345
+220608_mask o2steam gasification_without ac,H2,0.0165,0.0503,0.9963,8.7849
+20210609_mask pellet air 가스화_2차,CO,0.0013,0.0281,0.999,8.9322
+20210609_mask pellet air 가스화_2차,CO2,0.045,0.0883,0.9923,20.7901
+20210609_mask pellet air 가스화_2차,CH4,0.008,0.0348,0.9894,10.0605
+20210609_mask pellet air 가스화_2차,H2,0.0687,0.0736,0.9879,2.6683
+20210510_Mask pellet steam gasification,CO,0.0004,0.0129,0.9991,1.9379
+20210510_Mask pellet steam gasification,CO2,0.0018,0.0312,0.995,5.1915
+20210510_Mask pellet steam gasification,CH4,0.0023,0.0337,0.9983,2.091
+20210510_Mask pellet steam gasification,H2,0.0045,0.0444,0.9997,6.0059
+22.04.07_co2 가스화 with AC,CO,0.0031,0.0281,0.9938,5.8753
+22.04.07_co2 가스화 with AC,CO2,0.4046,0.4419,0.9837,21.2542
+22.04.07_co2 가스화 with AC,CH4,0.0121,0.0807,0.9939,16.8875
+22.04.07_co2 가스화 with AC,H2,0.0311,0.1348,0.9951,8.4799
+220718_mask o2steam gasification_with ac,CO,0.0023,0.0373,0.9944,0.8629
+220718_mask o2steam gasification_with ac,CO2,0.0072,0.0703,0.9964,1.2485
+220718_mask o2steam gasification_with ac,CH4,0.0085,0.0621,0.9951,2.7184
+220718_mask o2steam gasification_with ac,H2,0.0073,0.065,0.999,0.5648
+20210730_mask pellet_air,CO,0.0121,0.0917,0.9885,5.6757
+20210730_mask pellet_air,CO2,0.022,0.1169,0.9959,4.7675
+20210730_mask pellet_air,CH4,0.012,0.0798,0.9926,6.4371
+20210730_mask pellet_air,H2,0.0187,0.1136,0.996,2.6529
+20210510_Mask pellet steam gasification,CO,0.0004,0.0161,0.999,1.7716
+20210510_Mask pellet steam gasification,CO2,0.0015,0.025,0.9958,3.6761
+20210510_Mask pellet steam gasification,CH4,0.0022,0.0347,0.9984,4.7858
+20210510_Mask pellet steam gasification,H2,0.0071,0.0728,0.9996,3.6248
+22.05.25_mask co2 gasification without ac,CO,0.0009,0.0277,0.9283,13.4042
+22.05.25_mask co2 gasification without ac,CO2,0.0294,0.1619,0.9982,10.5739
+22.05.25_mask co2 gasification without ac,CH4,0.0019,0.0303,0.9982,7.1062
+22.05.25_mask co2 gasification without ac,H2,0.0066,0.0744,0.9771,7.5717
+220608_mask o2steam gasification_without ac,CO,0.0024,0.0253,0.9986,24.7605
+220608_mask o2steam gasification_without ac,CO2,0.0034,0.0392,0.9995,34.0794
+220608_mask o2steam gasification_without ac,CH4,0.0069,0.0572,0.9991,39.0823
+220608_mask o2steam gasification_without ac,H2,0.0072,0.0412,0.9984,6.9743
+20210614_non-A.C_air가스화,CO,0.0005,0.0169,0.9987,1.3951
+20210614_non-A.C_air가스화,CO2,0.005,0.0651,0.9985,9.7873
+20210614_non-A.C_air가스화,CH4,0.0011,0.0201,0.998,2.4808
+20210614_non-A.C_air가스화,H2,0.0027,0.0411,0.9911,2.5222
+20210510_Mask pellet steam gasification,CO,0.0006,0.019,0.9985,2.3679
+20210510_Mask pellet steam gasification,CO2,0.0007,0.0207,0.9982,3.0218
+20210510_Mask pellet steam gasification,CH4,0.0018,0.0285,0.9987,5.4173
+20210510_Mask pellet steam gasification,H2,0.0114,0.0969,0.9993,6.7775
+22.05.25_mask co2 gasification without ac,CO,0.0006,0.0227,0.9504,10.4464
+22.05.25_mask co2 gasification without ac,CO2,0.031,0.1664,0.9981,9.0698
+22.05.25_mask co2 gasification without ac,CH4,0.0025,0.0395,0.9975,7.2865
+22.05.25_mask co2 gasification without ac,H2,0.024,0.1494,0.9172,8.0896
+220819_mask O2steam gasification without AC,CO,0.0008,0.0178,0.9997,20.2892
+220819_mask O2steam gasification without AC,CO2,0.0122,0.0867,0.9987,89.2355
+220819_mask O2steam gasification without AC,CH4,0.0053,0.0377,0.9994,76.3622
+220819_mask O2steam gasification without AC,H2,0.0142,0.1063,0.9983,77.155
+20210730_mask pellet_air,CO,0.0053,0.0618,0.995,4.6197
+20210730_mask pellet_air,CO2,0.0675,0.2346,0.9875,7.1636
+20210730_mask pellet_air,CH4,0.0099,0.0736,0.9939,6.3672
+20210730_mask pellet_air,H2,0.0151,0.0996,0.9968,1.4814
+20210520_mask pellet_steam 가스화,CO,0.001,0.0163,0.9986,6.8876
+20210520_mask pellet_steam 가스화,CO2,0.0249,0.0334,0.9564,4.5384
+20210520_mask pellet_steam 가스화,CH4,0.0022,0.0271,0.999,12.2297
+20210520_mask pellet_steam 가스화,H2,0.0361,0.0488,0.9983,8.8056
+22.04.07_co2 가스화 with AC,CO,0.0033,0.039,0.9933,7.6445
+22.04.07_co2 가스화 with AC,CO2,0.1027,0.2885,0.9959,17.9495
+22.04.07_co2 가스화 with AC,CH4,0.0088,0.05,0.9955,16.1282
+22.04.07_co2 가스화 with AC,H2,0.0885,0.2123,0.9861,9.5449
+220819_mask O2steam gasification without AC,CO,0.002,0.0351,0.9993,40.4576
+220819_mask O2steam gasification without AC,CO2,0.0032,0.0472,0.9997,82.2718
+220819_mask O2steam gasification without AC,CH4,0.0072,0.0592,0.9992,89.4075
+220819_mask O2steam gasification without AC,H2,0.0117,0.0789,0.9986,8.0319
+22.06.02_mask air gasification without ac,CO,0.0008,0.0208,0.9985,7.0735
+22.06.02_mask air gasification without ac,CO2,0.0044,0.051,0.9979,9.6648
+22.06.02_mask air gasification without ac,CH4,0.0024,0.0359,0.997,7.986
+22.06.02_mask air gasification without ac,H2,0.0185,0.1316,0.9754,11.1527
+20210520_mask pellet_steam 가스화,CO,0.001,0.0159,0.9985,12.2378
+20210520_mask pellet_steam 가스화,CO2,0.0247,0.0559,0.9567,6.9785
+20210520_mask pellet_steam 가스화,CH4,0.0028,0.0351,0.9987,12.1615
+20210520_mask pellet_steam 가스화,H2,0.0233,0.0448,0.9989,6.1752
+22.04.07_co2 가스화 with AC,CO,0.007,0.0728,0.9858,10.465
+22.04.07_co2 가스화 with AC,CO2,0.1358,0.3505,0.9945,18.0918
+22.04.07_co2 가스화 with AC,CH4,0.0161,0.0685,0.9918,16.6075
+22.04.07_co2 가스화 with AC,H2,0.1427,0.2848,0.9776,14.2851
+220819_mask O2steam gasification without AC,CO,0.0012,0.0261,0.9996,38.5974
+220819_mask O2steam gasification without AC,CO2,0.0035,0.0502,0.9996,75.9798
+220819_mask O2steam gasification without AC,CH4,0.0065,0.0491,0.9993,80.0284
+220819_mask O2steam gasification without AC,H2,0.0129,0.0804,0.9984,7.6065
+20210730_mask pellet_air,CO,0.0151,0.1054,0.9856,5.3706
+20210730_mask pellet_air,CO2,0.0561,0.1945,0.9896,7.1984
+20210730_mask pellet_air,CH4,0.0124,0.0875,0.9924,6.7928
+20210730_mask pellet_air,H2,0.0176,0.1056,0.9963,1.9939
+20210520_mask pellet_steam 가스화,CO,0.0008,0.0113,0.9989,5.3891
+20210520_mask pellet_steam 가스화,CO2,0.017,0.0279,0.9702,5.2443
+20210520_mask pellet_steam 가스화,CH4,0.0052,0.0369,0.9976,12.2644
+20210520_mask pellet_steam 가스화,H2,0.0476,0.0535,0.9978,12.1638
+22.04.07_co2 가스화 with AC,CO,0.0076,0.049,0.9846,6.9864
+22.04.07_co2 가스화 with AC,CO2,0.5309,0.429,0.9787,20.9649
+22.04.07_co2 가스화 with AC,CH4,0.0271,0.0866,0.9862,16.9178
+22.04.07_co2 가스화 with AC,H2,0.1816,0.2562,0.9715,9.0367
+220718_mask o2steam gasification_with ac,CO,0.0023,0.0399,0.9943,0.909
+220718_mask o2steam gasification_with ac,CO2,0.0287,0.1453,0.9858,2.2693
+220718_mask o2steam gasification_with ac,CH4,0.0083,0.0635,0.9951,2.5745
+220718_mask o2steam gasification_with ac,H2,0.0064,0.0605,0.9991,0.5035
+Average,CO,0.0033 ± 0.00,0.0353 ± 0.02,0.9866 ± 0.03,10.3679 ± 9.50
+,CO2,0.0697 ± 0.13,0.1290 ± 0.13,0.9884 ± 0.02,18.6088 ± 23.02
+,CH4,0.0079 ± 0.01,0.0492 ± 0.02,0.9959 ± 0.00,17.9774 ± 23.17
+,H2,0.0275 ± 0.04,0.0917 ± 0.06,0.9910 ± 0.01,9.5896 ± 16.22

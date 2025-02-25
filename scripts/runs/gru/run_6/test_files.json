@@ -1,0 +1,18 @@
+[
+    {
+        "group": "air gasification",
+        "test_file": "../data/Group_modified\\air gasification\\20210614_non-A.C_air가스화.csv"
+    },
+    {
+        "group": "steam gasification",
+        "test_file": "../data/Group_modified\\steam gasification\\20210510_Mask pellet steam gasification.csv"
+    },
+    {
+        "group": "CO2 gasification",
+        "test_file": "../data/Group_modified\\CO2 gasification\\22.05.25_mask co2 gasification without ac.csv"
+    },
+    {
+        "group": "O2steam gasification",
+        "test_file": "../data/Group_modified\\O2steam gasification\\220819_mask O2steam gasification without AC.csv"
+    }
+]
